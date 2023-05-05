@@ -1,0 +1,32 @@
+Change Component Designator: OldDesignator=R_G1 NewDesignator=G1
+Change Component Designator: OldDesignator=R_G2 NewDesignator=G2
+Change Component Designator: OldDesignator=R_G3 NewDesignator=G3
+Change Component Designator: OldDesignator=R_G4 NewDesignator=G4
+Change Component Designator: OldDesignator=R_R1 NewDesignator=R1
+Change Component Designator: OldDesignator=R_R2 NewDesignator=R2
+Change Component Designator: OldDesignator=R_R3 NewDesignator=R3
+Change Component Designator: OldDesignator=R_R4 NewDesignator=R4
+Change Component Designator: OldDesignator=R_Y1 NewDesignator=Y1
+Change Component Designator: OldDesignator=R_Y2 NewDesignator=Y2
+Change Component Designator: OldDesignator=R_Y3 NewDesignator=Y3
+Change Component Designator: OldDesignator=R_Y4 NewDesignator=Y4
+Change Component Designator: OldDesignator=RSEG0 NewDesignator=SEG0
+Change Component Designator: OldDesignator=RSEG1 NewDesignator=SEG1
+Change Component Designator: OldDesignator=RSEG2 NewDesignator=SEG2
+Change Component Designator: OldDesignator=RSEG3 NewDesignator=SEG3
+Change Component Designator: OldDesignator=RSEG4 NewDesignator=SEG4
+Change Component Designator: OldDesignator=RSEG5 NewDesignator=SEG5
+Change Component Designator: OldDesignator=RSEG6 NewDesignator=SEG6
+Change Net Name : Old Net Name=NetGREEN1_1 New Net Name=NetG1_1
+Change Net Name : Old Net Name=NetGREEN2_1 New Net Name=NetG2_2
+Change Net Name : Old Net Name=NetGREEN3_1 New Net Name=NetG3_1
+Change Net Name : Old Net Name=NetGREEN4_1 New Net Name=NetG4_2
+Change Net Name : Old Net Name=NetR_R1_1 New Net Name=NetR1_1
+Change Net Name : Old Net Name=NetR_R2_2 New Net Name=NetR2_2
+Change Net Name : Old Net Name=NetR_R3_1 New Net Name=NetR3_1
+Change Net Name : Old Net Name=NetR_R4_2 New Net Name=NetR4_2
+Change Net Name : Old Net Name=NetR_Y1_1 New Net Name=NetY1_1
+Change Net Name : Old Net Name=NetR_Y2_2 New Net Name=NetY2_2
+Change Net Name : Old Net Name=NetR_Y3_1 New Net Name=NetY3_1
+Change Net Name : Old Net Name=NetR_Y4_2 New Net Name=NetY4_2
+Added Room: Name=TrafficLight

@@ -1,0 +1,69 @@
+Removed Pin From Net: NetName=EN3 Pin=U1-A5_1
+Removed Pin From Net: NetName=SEG0 Pin=U1-A5_2
+Removed Pin From Net: NetName=SEG1 Pin=U1-A5_3
+Removed Pin From Net: NetName=SEG2 Pin=U1-A5_4
+Removed Pin From Net: NetName=SEG3 Pin=U1-A5_5
+Removed Pin From Net: NetName=SEG4 Pin=U1-A5_6
+Removed Pin From Net: NetName=GND Pin=U1-A5_7
+Removed Pin From Net: NetName=SEG5 Pin=U1-A5_9
+Removed Pin From Net: NetName=SEG6 Pin=U1-A5_10
+Removed Pin From Net: NetName=+5V Pin=U1-A6_5
+Removed Pin From Net: NetName=GND Pin=U1-A6_6
+Removed Pin From Net: NetName=GND Pin=U1-A6_7
+Removed Pin From Net: NetName=LED_RED1 Pin=U1-A8_1
+Removed Pin From Net: NetName=LED_YELLOW1 Pin=U1-A8_2
+Removed Pin From Net: NetName=LED_GREEN1 Pin=U1-A8_3
+Removed Pin From Net: NetName=LED_RED2 Pin=U1-A8_4
+Removed Pin From Net: NetName=LED_YELLOW2 Pin=U1-A8_5
+Removed Pin From Net: NetName=LED_GREEN2 Pin=U1-A8_6
+Removed Pin From Net: NetName=BUTTON_0 Pin=U1-A9_1
+Removed Pin From Net: NetName=BUTTON_1 Pin=U1-A9_2
+Removed Pin From Net: NetName=BUTTON_2 Pin=U1-A9_3
+Removed Pin From Net: NetName=BUTTON_3 Pin=U1-A9_4
+Removed Pin From Net: NetName=EN0 Pin=U1-A9_6
+Removed Pin From Net: NetName=EN1 Pin=U1-A9_7
+Removed Pin From Net: NetName=EN2 Pin=U1-A9_8
+Removed Pin From Net: NetName=GND Pin=U1-M7_8
+Removed Pin From Net: NetName=+5V Pin=U1-M7_18
+Removed Pin From Net: NetName=GND Pin=U1-M7_19
+Removed Pin From Net: NetName=GND Pin=U1-M7_20
+Removed Pin From Net: NetName=GND Pin=U1-M7_22
+Removed Pin From Net: NetName=GND Pin=U1-M10_9
+Removed Pin From Net: NetName=GND Pin=U1-M10_20
+Removed Member From Class: ClassName=TrafficLight Member=U1
+Added Component: Designator=Traffic Light Shield(NUCLEO)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BRAND"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Product Number"; Value = "NUCLEO-F103RB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = "NUCLEO-F103RB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = "497-14362-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = "digi-key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = "EVAL BRD"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=EN3 Pin=Traffic Light Shield-A5_1
+Added Pin To Net: NetName=SEG0 Pin=Traffic Light Shield-A5_2
+Added Pin To Net: NetName=SEG1 Pin=Traffic Light Shield-A5_3
+Added Pin To Net: NetName=SEG2 Pin=Traffic Light Shield-A5_4
+Added Pin To Net: NetName=SEG3 Pin=Traffic Light Shield-A5_5
+Added Pin To Net: NetName=SEG4 Pin=Traffic Light Shield-A5_6
+Added Pin To Net: NetName=GND Pin=Traffic Light Shield-A5_7
+Added Pin To Net: NetName=SEG5 Pin=Traffic Light Shield-A5_9
+Added Pin To Net: NetName=SEG6 Pin=Traffic Light Shield-A5_10
+Added Pin To Net: NetName=+5V Pin=Traffic Light Shield-A6_5
+Added Pin To Net: NetName=GND Pin=Traffic Light Shield-A6_6
+Added Pin To Net: NetName=GND Pin=Traffic Light Shield-A6_7
+Added Pin To Net: NetName=LED_RED1 Pin=Traffic Light Shield-A8_1
+Added Pin To Net: NetName=LED_YELLOW1 Pin=Traffic Light Shield-A8_2
+Added Pin To Net: NetName=LED_GREEN1 Pin=Traffic Light Shield-A8_3
+Added Pin To Net: NetName=LED_RED2 Pin=Traffic Light Shield-A8_4
+Added Pin To Net: NetName=LED_YELLOW2 Pin=Traffic Light Shield-A8_5
+Added Pin To Net: NetName=LED_GREEN2 Pin=Traffic Light Shield-A8_6
+Added Pin To Net: NetName=BUTTON_0 Pin=Traffic Light Shield-A9_1
+Added Pin To Net: NetName=BUTTON_1 Pin=Traffic Light Shield-A9_2
+Added Pin To Net: NetName=BUTTON_2 Pin=Traffic Light Shield-A9_3
+Added Pin To Net: NetName=BUTTON_3 Pin=Traffic Light Shield-A9_4
+Added Pin To Net: NetName=EN0 Pin=Traffic Light Shield-A9_6
+Added Pin To Net: NetName=EN1 Pin=Traffic Light Shield-A9_7
+Added Pin To Net: NetName=EN2 Pin=Traffic Light Shield-A9_8
+Added Member To Class: ClassName=TrafficLight Member=Component Traffic Light Shield NUCLEO-F103RB
+Added Room: Name=TrafficLight

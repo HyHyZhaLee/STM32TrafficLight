@@ -1,0 +1,77 @@
+Change Component Designator: OldDesignator=C0 NewDesignator=C1
+Change Component Designator: OldDesignator=C1 NewDesignator=C2
+Change Component Designator: OldDesignator=C2 NewDesignator=C3
+Change Component Designator: OldDesignator=C3 NewDesignator=C4
+Change Component Designator: OldDesignator=EN0 NewDesignator=EN1
+Change Component Designator: OldDesignator=EN1 NewDesignator=EN2
+Change Component Designator: OldDesignator=EN2 NewDesignator=EN3
+Change Component Designator: OldDesignator=EN3 NewDesignator=EN4
+Change Component Designator: OldDesignator=GREEN2 NewDesignator=GREEN3
+Change Component Designator: OldDesignator=GREEN3 NewDesignator=GREEN4
+Change Component Designator: OldDesignator=GREEN4 NewDesignator=GREEN2
+Change Component Designator: OldDesignator=LED 7-SEG QUAD NewDesignator=LED 1
+Change Component Designator: OldDesignator=Q0 NewDesignator=Q1
+Change Component Designator: OldDesignator=Q1 NewDesignator=Q2
+Change Component Designator: OldDesignator=Q2 NewDesignator=Q3
+Change Component Designator: OldDesignator=Q3 NewDesignator=Q4
+Change Component Designator: OldDesignator=R_B0 NewDesignator=R21
+Change Component Designator: OldDesignator=R_B1 NewDesignator=R22
+Change Component Designator: OldDesignator=R_B2 NewDesignator=R23
+Change Component Designator: OldDesignator=R_B3 NewDesignator=R24
+Change Component Designator: OldDesignator=RED2 NewDesignator=RED3
+Change Component Designator: OldDesignator=RED3 NewDesignator=RED4
+Change Component Designator: OldDesignator=RED4 NewDesignator=RED2
+Change Component Designator: OldDesignator=REN0 NewDesignator=R1
+Change Component Designator: OldDesignator=REN1 NewDesignator=R2
+Change Component Designator: OldDesignator=REN2 NewDesignator=R3
+Change Component Designator: OldDesignator=REN3 NewDesignator=R4
+Change Component Designator: OldDesignator=RG1 NewDesignator=R11
+Change Component Designator: OldDesignator=RG2 NewDesignator=R20
+Change Component Designator: OldDesignator=RG3 NewDesignator=R27
+Change Component Designator: OldDesignator=RG4 NewDesignator=R19
+Change Component Designator: OldDesignator=RR1 NewDesignator=R9
+Change Component Designator: OldDesignator=RR2 NewDesignator=R15
+Change Component Designator: OldDesignator=RR3 NewDesignator=R25
+Change Component Designator: OldDesignator=RR4 NewDesignator=R14
+Change Component Designator: OldDesignator=RSEG0 NewDesignator=R5
+Change Component Designator: OldDesignator=RSEG1 NewDesignator=R6
+Change Component Designator: OldDesignator=RSEG2 NewDesignator=R7
+Change Component Designator: OldDesignator=RSEG3 NewDesignator=R8
+Change Component Designator: OldDesignator=RSEG4 NewDesignator=R12
+Change Component Designator: OldDesignator=RSEG5 NewDesignator=R13
+Change Component Designator: OldDesignator=RSEG6 NewDesignator=R16
+Change Component Designator: OldDesignator=RY1 NewDesignator=R10
+Change Component Designator: OldDesignator=RY2 NewDesignator=R18
+Change Component Designator: OldDesignator=RY3 NewDesignator=R26
+Change Component Designator: OldDesignator=RY4 NewDesignator=R17
+Change Component Designator: OldDesignator=SW0 NewDesignator=SW1
+Change Component Designator: OldDesignator=SW1 NewDesignator=SW2
+Change Component Designator: OldDesignator=SW2 NewDesignator=SW3
+Change Component Designator: OldDesignator=SW3 NewDesignator=SW4
+Change Component Designator: OldDesignator=TRAFFIC LIGHT NewDesignator=TRAFFIC LIGHT1
+Change Component Designator: OldDesignator=YELLOW2 NewDesignator=YELLOW3
+Change Component Designator: OldDesignator=YELLOW3 NewDesignator=YELLOW4
+Change Component Designator: OldDesignator=YELLOW4 NewDesignator=YELLOW2
+Change Net Name : Old Net Name=NetGREEN2_1 New Net Name=NetGREEN3_1
+Change Net Name : Old Net Name=NetGREEN3_1 New Net Name=NetGREEN4_1
+Change Net Name : Old Net Name=NetGREEN4_1 New Net Name=NetGREEN2_1
+Change Net Name : Old Net Name=NetLED 7-SEG QUAD_1 New Net Name=NetLED 1_1
+Change Net Name : Old Net Name=NetLED 7-SEG QUAD_2 New Net Name=NetLED 1_2
+Change Net Name : Old Net Name=NetLED 7-SEG QUAD_4 New Net Name=NetLED 1_4
+Change Net Name : Old Net Name=NetLED 7-SEG QUAD_5 New Net Name=NetLED 1_5
+Change Net Name : Old Net Name=NetLED 7-SEG QUAD_7 New Net Name=NetLED 1_7
+Change Net Name : Old Net Name=NetLED 7-SEG QUAD_10 New Net Name=NetLED 1_10
+Change Net Name : Old Net Name=NetLED 7-SEG QUAD_11 New Net Name=NetLED 1_11
+Change Net Name : Old Net Name=NetQ0_1 New Net Name=NetQ1_1
+Change Net Name : Old Net Name=NetQ1_1 New Net Name=NetQ2_1
+Change Net Name : Old Net Name=NetQ2_1 New Net Name=NetQ3_1
+Change Net Name : Old Net Name=NetQ3_1 New Net Name=NetQ4_1
+Change Net Name : Old Net Name=NetRED1_1 New Net Name=NetR9_1
+Change Net Name : Old Net Name=NetRED2_1 New Net Name=NetR15_2
+Change Net Name : Old Net Name=NetRED3_1 New Net Name=NetR25_1
+Change Net Name : Old Net Name=NetRED4_1 New Net Name=NetR14_2
+Change Net Name : Old Net Name=NetRY1_1 New Net Name=NetR10_1
+Change Net Name : Old Net Name=NetRY2_2 New Net Name=NetR18_2
+Change Net Name : Old Net Name=NetRY3_1 New Net Name=NetR26_1
+Change Net Name : Old Net Name=NetRY4_2 New Net Name=NetR17_2
+Added Room: Name=TrafficLight

@@ -1,0 +1,179 @@
+Teardrop Report TrafficLight.PcbDoc
+On 02/04/2023 at 3:45:38 CH
+
+Pads visited                : 166
+
+Vias visited                : 0
+
+Pad teardrops failed : 0
+
+Pad C3-1(748.032mil,-1092.52mil) on Top Layer
+Pad C3-2(748.032mil,-1025.591mil) on Top Layer
+Pad C0-1(-354.331mil,-1092.52mil) on Top Layer
+Pad C0-2(-354.331mil,-1025.591mil) on Top Layer
+Pad C2-1(374.016mil,-1092.52mil) on Top Layer
+Pad C2-2(374.016mil,-1025.591mil) on Top Layer
+Pad C1-1(9.842mil,-1092.52mil) on Top Layer
+Pad C1-2(9.842mil,-1025.591mil) on Top Layer
+Pad Q0-3(816.929mil,-797.244mil) on Top Layer
+Pad Q0-2(854.331mil,-875.984mil) on Top Layer
+Pad Q0-1(779.528mil,-875.984mil) on Top Layer
+Pad REN3-1(870.079mil,-305.118mil) on Top Layer
+Pad REN3-2(803.15mil,-305.118mil) on Top Layer
+Pad REN2-1(870.079mil,-472.441mil) on Top Layer
+Pad REN2-2(803.15mil,-472.441mil) on Top Layer
+Pad REN1-1(870.079mil,-570.866mil) on Top Layer
+Pad REN1-2(803.15mil,-570.866mil) on Top Layer
+Pad REN0-1(870.079mil,-669.291mil) on Top Layer
+Pad REN0-2(803.15mil,-669.291mil) on Top Layer
+Pad Q3-3(403.543mil,-797.244mil) on Top Layer
+Pad Q3-2(440.945mil,-875.984mil) on Top Layer
+Pad Q3-1(366.142mil,-875.984mil) on Top Layer
+Pad Q2-3(541.339mil,-797.244mil) on Top Layer
+Pad Q2-2(578.74mil,-875.984mil) on Top Layer
+Pad Q2-1(503.937mil,-875.984mil) on Top Layer
+Pad Q1-3(679.134mil,-797.244mil) on Top Layer
+Pad Q1-2(716.535mil,-875.984mil) on Top Layer
+Pad Q1-1(641.732mil,-875.984mil) on Top Layer
+Pad RSEG6-1(870.079mil,590.551mil) on Top Layer
+Pad RSEG6-2(803.15mil,590.551mil) on Top Layer
+Pad RSEG4-1(870.079mil,187.008mil) on Top Layer
+Pad RSEG4-2(803.15mil,187.008mil) on Top Layer
+Pad RSEG5-1(870.079mil,492.126mil) on Top Layer
+Pad RSEG5-2(803.15mil,492.126mil) on Top Layer
+Pad RSEG2-1(870.079mil,-9.842mil) on Top Layer
+Pad RSEG2-2(803.15mil,-9.842mil) on Top Layer
+Pad RSEG1-1(870.079mil,-108.268mil) on Top Layer
+Pad RSEG1-2(803.15mil,-108.268mil) on Top Layer
+Pad RSEG0-1(870.079mil,-206.693mil) on Top Layer
+Pad RSEG0-2(803.15mil,-206.693mil) on Top Layer
+Pad RSEG3-1(870.079mil,88.583mil) on Top Layer
+Pad RSEG3-2(803.15mil,88.583mil) on Top Layer
+Pad RR3-1(-269.685mil,-925.197mil) on Top Layer
+Pad RR3-2(-202.756mil,-925.197mil) on Top Layer
+Pad RY3-1(-43.307mil,-925.197mil) on Top Layer
+Pad RY3-2(23.622mil,-925.197mil) on Top Layer
+Pad RG3-1(173.228mil,-925.197mil) on Top Layer
+Pad RG3-2(240.157mil,-925.197mil) on Top Layer
+Pad RG2-1(501.969mil,-557.087mil) on Top Layer
+Pad RG2-2(501.969mil,-624.016mil) on Top Layer
+Pad RY2-1(501.969mil,-330.709mil) on Top Layer
+Pad RY2-2(501.969mil,-397.638mil) on Top Layer
+Pad RR2-1(501.969mil,-104.331mil) on Top Layer
+Pad RR2-2(501.969mil,-171.26mil) on Top Layer
+Pad RG4-1(-511.811mil,-566.929mil) on Top Layer
+Pad RG4-2(-511.811mil,-633.858mil) on Top Layer
+Pad RY4-1(-511.811mil,-330.709mil) on Top Layer
+Pad RY4-2(-511.811mil,-397.638mil) on Top Layer
+Pad RR4-1(-521.654mil,-95.275mil) on Top Layer
+Pad RR4-2(-521.654mil,-162.205mil) on Top Layer
+Pad RR1-1(-255.906mil,108.268mil) on Top Layer
+Pad RR1-2(-188.976mil,108.268mil) on Top Layer
+Pad RY1-1(-39.37mil,108.268mil) on Top Layer
+Pad RY1-2(27.559mil,108.268mil) on Top Layer
+Pad RG1-1(177.165mil,108.268mil) on Top Layer
+Pad RG1-2(244.094mil,108.268mil) on Top Layer
+Pad R_B3-1(748.032mil,-1163.386mil) on Top Layer
+Pad R_B3-2(748.032mil,-1230.315mil) on Top Layer
+Pad R_B2-1(374.016mil,-1163.386mil) on Top Layer
+Pad R_B2-2(374.016mil,-1230.315mil) on Top Layer
+Pad R_B1-1(9.842mil,-1163.386mil) on Top Layer
+Pad R_B1-2(9.842mil,-1230.315mil) on Top Layer
+Pad R_B0-1(-354.331mil,-1163.386mil) on Top Layer
+Pad R_B0-2(-354.331mil,-1230.315mil) on Top Layer
+Pad EN3-1(-718.504mil,39.37mil) on Top Layer
+Pad EN3-2(-777.559mil,39.37mil) on Top Layer
+Pad EN2-1(-718.504mil,187.008mil) on Top Layer
+Pad EN2-2(-777.559mil,187.008mil) on Top Layer
+Pad EN1-1(-718.504mil,334.646mil) on Top Layer
+Pad EN1-2(-777.559mil,334.646mil) on Top Layer
+Pad EN0-1(-718.504mil,482.283mil) on Top Layer
+Pad EN0-2(-777.559mil,482.283mil) on Top Layer
+Pad TRAFFIC LIGHT-A9_1(945.276mil,-1168.898mil) on Multi-Layer
+Pad TRAFFIC LIGHT-A9_2(945.276mil,-1068.898mil) on Multi-Layer
+Pad TRAFFIC LIGHT-A9_3(945.276mil,-968.898mil) on Multi-Layer
+Pad TRAFFIC LIGHT-A9_4(945.276mil,-868.898mil) on Multi-Layer
+Pad TRAFFIC LIGHT-A9_5(945.276mil,-768.898mil) on Multi-Layer
+Pad TRAFFIC LIGHT-A9_6(945.276mil,-668.898mil) on Multi-Layer
+Pad TRAFFIC LIGHT-A9_7(945.276mil,-568.898mil) on Multi-Layer
+Pad TRAFFIC LIGHT-A9_8(945.276mil,-468.898mil) on Multi-Layer
+Pad TRAFFIC LIGHT-A6_1(-954.724mil,231.102mil) on Multi-Layer
+Pad TRAFFIC LIGHT-A6_2(-954.724mil,131.102mil) on Multi-Layer
+Pad TRAFFIC LIGHT-A6_3(-954.724mil,31.102mil) on Multi-Layer
+Pad TRAFFIC LIGHT-A6_4(-954.724mil,-68.898mil) on Multi-Layer
+Pad TRAFFIC LIGHT-A6_5(-954.724mil,-168.898mil) on Multi-Layer
+Pad TRAFFIC LIGHT-A6_6(-954.724mil,-268.898mil) on Multi-Layer
+Pad TRAFFIC LIGHT-A6_7(-954.724mil,-368.898mil) on Multi-Layer
+Pad TRAFFIC LIGHT-A6_8(-954.724mil,-468.898mil) on Multi-Layer
+Pad TRAFFIC LIGHT-A8_6(-954.724mil,-1168.898mil) on Multi-Layer
+Pad TRAFFIC LIGHT-A8_5(-954.724mil,-1068.898mil) on Multi-Layer
+Pad TRAFFIC LIGHT-A8_4(-954.724mil,-968.898mil) on Multi-Layer
+Pad TRAFFIC LIGHT-A8_3(-954.724mil,-868.898mil) on Multi-Layer
+Pad TRAFFIC LIGHT-A8_2(-954.724mil,-768.898mil) on Multi-Layer
+Pad TRAFFIC LIGHT-A8_1(-954.724mil,-668.898mil) on Multi-Layer
+Pad TRAFFIC LIGHT-A5_1(945.276mil,-309.055mil) on Multi-Layer
+Pad TRAFFIC LIGHT-A5_2(945.276mil,-209.055mil) on Multi-Layer
+Pad TRAFFIC LIGHT-A5_3(945.276mil,-109.055mil) on Multi-Layer
+Pad TRAFFIC LIGHT-A5_4(945.276mil,-9.055mil) on Multi-Layer
+Pad TRAFFIC LIGHT-A5_5(945.276mil,90.945mil) on Multi-Layer
+Pad TRAFFIC LIGHT-A5_6(945.276mil,190.945mil) on Multi-Layer
+Pad TRAFFIC LIGHT-A5_7(945.276mil,290.945mil) on Multi-Layer
+Pad TRAFFIC LIGHT-A5_8(945.276mil,390.945mil) on Multi-Layer
+Pad TRAFFIC LIGHT-A5_9(945.276mil,490.945mil) on Multi-Layer
+Pad TRAFFIC LIGHT-A5_10(945.276mil,590.945mil) on Multi-Layer
+Pad YELLOW3-2(40.157mil,-794.882mil) on Multi-Layer
+Pad YELLOW3-1(-59.843mil,-794.882mil) on Multi-Layer
+Pad YELLOW2-1(424.016mil,-364.173mil) on Multi-Layer
+Pad YELLOW2-2(324.016mil,-364.173mil) on Multi-Layer
+Pad YELLOW4-1(-433.858mil,-364.173mil) on Multi-Layer
+Pad YELLOW4-2(-333.858mil,-364.173mil) on Multi-Layer
+Pad YELLOW1-1(-55.906mil,-9.843mil) on Multi-Layer
+Pad YELLOW1-2(44.094mil,-9.843mil) on Multi-Layer
+Pad RED3-1(-276.378mil,-794.882mil) on Multi-Layer
+Pad RED3-2(-176.378mil,-794.882mil) on Multi-Layer
+Pad RED2-1(424.016mil,-137.795mil) on Multi-Layer
+Pad RED2-2(324.016mil,-137.795mil) on Multi-Layer
+Pad RED4-1(-433.858mil,-137.795mil) on Multi-Layer
+Pad RED4-2(-333.858mil,-137.795mil) on Multi-Layer
+Pad RED1-1(-272.441mil,-9.843mil) on Multi-Layer
+Pad RED1-2(-172.441mil,-9.843mil) on Multi-Layer
+Pad GREEN3-1(156.693mil,-794.882mil) on Multi-Layer
+Pad GREEN3-2(256.693mil,-794.882mil) on Multi-Layer
+Pad GREEN2-1(415.354mil,-598.032mil) on Multi-Layer
+Pad GREEN2-2(315.354mil,-598.032mil) on Multi-Layer
+Pad GREEN4-1(-433.858mil,-598.032mil) on Multi-Layer
+Pad GREEN4-2(-333.858mil,-598.032mil) on Multi-Layer
+Pad GREEN1-1(160.63mil,-9.843mil) on Multi-Layer
+Pad GREEN1-2(260.63mil,-9.843mil) on Multi-Layer
+Pad SW3-1(453.149mil,-1001.575mil) on Multi-Layer
+Pad SW3-4(630.315mil,-1001.575mil) on Multi-Layer
+Pad SW3-3(630.315mil,-1257.48mil) on Multi-Layer
+Pad SW3-2(453.149mil,-1257.48mil) on Multi-Layer
+Pad SW2-1(85.695mil,-1001.575mil) on Multi-Layer
+Pad SW2-4(262.861mil,-1001.575mil) on Multi-Layer
+Pad SW2-3(262.861mil,-1257.48mil) on Multi-Layer
+Pad SW2-2(85.695mil,-1257.48mil) on Multi-Layer
+Pad SW1-1(-281.759mil,-1001.575mil) on Multi-Layer
+Pad SW1-4(-104.593mil,-1001.575mil) on Multi-Layer
+Pad SW1-3(-104.593mil,-1257.48mil) on Multi-Layer
+Pad SW1-2(-281.759mil,-1257.48mil) on Multi-Layer
+Pad SW0-1(-649.212mil,-1001.575mil) on Multi-Layer
+Pad SW0-4(-472.047mil,-1001.575mil) on Multi-Layer
+Pad SW0-3(-472.047mil,-1257.48mil) on Multi-Layer
+Pad SW0-2(-649.212mil,-1257.48mil) on Multi-Layer
+Pad LED 7-SEG QUAD-1(-259.842mil,223.228mil) on Multi-Layer
+Pad LED 7-SEG QUAD-2(-159.843mil,223.228mil) on Multi-Layer
+Pad LED 7-SEG QUAD-3(-59.843mil,223.228mil) on Multi-Layer
+Pad LED 7-SEG QUAD-4(40.157mil,223.228mil) on Multi-Layer
+Pad LED 7-SEG QUAD-5(140.157mil,223.228mil) on Multi-Layer
+Pad LED 7-SEG QUAD-6(240.157mil,223.228mil) on Multi-Layer
+Pad LED 7-SEG QUAD-7(240.157mil,623.228mil) on Multi-Layer
+Pad LED 7-SEG QUAD-8(140.157mil,623.228mil) on Multi-Layer
+Pad LED 7-SEG QUAD-9(40.157mil,623.228mil) on Multi-Layer
+Pad LED 7-SEG QUAD-10(-59.843mil,623.228mil) on Multi-Layer
+Pad LED 7-SEG QUAD-11(-159.843mil,623.228mil) on Multi-Layer
+Pad LED 7-SEG QUAD-12(-259.842mil,623.228mil) on Multi-Layer
+
+Via teardrops failed : 0
+
+

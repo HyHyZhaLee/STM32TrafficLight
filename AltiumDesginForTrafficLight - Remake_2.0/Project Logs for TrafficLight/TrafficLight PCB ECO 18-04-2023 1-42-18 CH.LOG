@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=VCC Pin=VCC-2
+Removed Member From Class: ClassName=TrafficLight Member=VCC
+Change Component Comment : Designator=RG1 Old Comment=220 New Comment=270
+Change Component Comment : Designator=RG2 Old Comment=220 New Comment=270
+Change Component Comment : Designator=RG3 Old Comment=220 New Comment=270
+Change Component Comment : Designator=RY1 Old Comment=220 New Comment=300
+Change Component Comment : Designator=RY2 Old Comment=220 New Comment=300
+Change Component Comment : Designator=RY3 Old Comment=220 New Comment=300
+Change Component Comment : Designator=RY4 Old Comment=220 New Comment=300
+Change Component Comment : Designator=RR1 Old Comment=220 New Comment=330
+Change Component Comment : Designator=RR2 Old Comment=220 New Comment=330
+Change Component Comment : Designator=RR3 Old Comment=220 New Comment=330
+Change Component Comment : Designator=RR4 Old Comment=220 New Comment=330
+Added Component: Designator=J1(JUMP3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=J1-2
+Added Pin To Net: NetName=+3.3V Pin=J1-3
+Added Pin To Net: NetName=+3.3V Pin=TRAFFIC LIGHT-A6_4
+Added Net: Name=+3.3V
+Added Pin To Net: NetName=+5V Pin=J1-1
+Added Pin To Net: NetName=+5V Pin=TRAFFIC LIGHT-A6_5
+Added Net: Name=+5V
+Added Member To Class: ClassName=TrafficLight Member=Component J1 JUMP 3

@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=S0 Pin=R_S0-2
+Removed Pin From Net: NetName=S1 Pin=R_S1-2
+Removed Pin From Net: NetName=S2 Pin=R_S2-2
+Removed Pin From Net: NetName=S3 Pin=R_S3-2
+Removed Member From Class: ClassName=TrafficLight Member=R_S0
+Removed Member From Class: ClassName=TrafficLight Member=R_S1
+Removed Member From Class: ClassName=TrafficLight Member=R_S2
+Removed Member From Class: ClassName=TrafficLight Member=R_S3
+Added Pin To Net: NetName=S0 Pin=EN0-1
+Added Pin To Net: NetName=S1 Pin=EN1-1
+Added Pin To Net: NetName=S2 Pin=EN2-1
+Added Pin To Net: NetName=S3 Pin=EN3-1

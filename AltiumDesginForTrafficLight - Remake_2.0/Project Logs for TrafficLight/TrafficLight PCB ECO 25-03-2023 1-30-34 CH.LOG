@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=GND Pin=U1-M7_8
+Removed Pin From Net: NetName=+5V Pin=U1-M7_18
+Removed Pin From Net: NetName=GND Pin=U1-M7_19
+Removed Pin From Net: NetName=GND Pin=U1-M7_20
+Removed Pin From Net: NetName=GND Pin=U1-M7_22
+Removed Pin From Net: NetName=GND Pin=U1-M10_9
+Removed Pin From Net: NetName=GND Pin=U1-M10_20
+Added Room: Name=TrafficLight

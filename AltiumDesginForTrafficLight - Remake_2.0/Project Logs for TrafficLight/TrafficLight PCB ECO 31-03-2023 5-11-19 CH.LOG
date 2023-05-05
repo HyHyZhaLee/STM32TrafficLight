@@ -1,0 +1,64 @@
+Change Component Designator: OldDesignator=R50 NewDesignator=R4
+Change Component Designator: OldDesignator=R51 NewDesignator=R5
+Change Component Designator: OldDesignator=R52 NewDesignator=R6
+Change Component Designator: OldDesignator=R53 NewDesignator=R7
+Change Component Designator: OldDesignator=R54 NewDesignator=R8
+Change Component Designator: OldDesignator=R55 NewDesignator=R9
+Change Component Designator: OldDesignator=R56 NewDesignator=R00
+Added Member To Class: ClassName=TrafficLight Member=Component EN0 Led
+Added Member To Class: ClassName=TrafficLight Member=Component EN1 Led
+Added Member To Class: ClassName=TrafficLight Member=Component EN2 Led
+Added Member To Class: ClassName=TrafficLight Member=Component EN3 Led
+Added Member To Class: ClassName=TrafficLight Member=Component GREEN1 Led
+Added Member To Class: ClassName=TrafficLight Member=Component GREEN2 Led
+Added Member To Class: ClassName=TrafficLight Member=Component GREEN3 Led
+Added Member To Class: ClassName=TrafficLight Member=Component GREEN4 Led
+Added Member To Class: ClassName=TrafficLight Member=Component LED 7-SEG QUAD
+Added Member To Class: ClassName=TrafficLight Member=Component Q0 Transistor PNP
+Added Member To Class: ClassName=TrafficLight Member=Component Q1 Transistor PNP
+Added Member To Class: ClassName=TrafficLight Member=Component Q2 Transistor PNP
+Added Member To Class: ClassName=TrafficLight Member=Component Q3 Transistor PNP
+Added Member To Class: ClassName=TrafficLight Member=Component R0 4.7k
+Added Member To Class: ClassName=TrafficLight Member=Component R00 4.7k
+Added Member To Class: ClassName=TrafficLight Member=Component R1 4.7k
+Added Member To Class: ClassName=TrafficLight Member=Component R2 4.7k
+Added Member To Class: ClassName=TrafficLight Member=Component R3 4.7k
+Added Member To Class: ClassName=TrafficLight Member=Component R4 4.7k
+Added Member To Class: ClassName=TrafficLight Member=Component R5 4.7k
+Added Member To Class: ClassName=TrafficLight Member=Component R6 4.7k
+Added Member To Class: ClassName=TrafficLight Member=Component R7 4.7k
+Added Member To Class: ClassName=TrafficLight Member=Component R8 4.7k
+Added Member To Class: ClassName=TrafficLight Member=Component R9 4.7k
+Added Member To Class: ClassName=TrafficLight Member=Component R10 3.3k
+Added Member To Class: ClassName=TrafficLight Member=Component R11 3.3k
+Added Member To Class: ClassName=TrafficLight Member=Component R12 3.3k
+Added Member To Class: ClassName=TrafficLight Member=Component R13 3.3k
+Added Member To Class: ClassName=TrafficLight Member=Component R20 1k
+Added Member To Class: ClassName=TrafficLight Member=Component R21 1k
+Added Member To Class: ClassName=TrafficLight Member=Component R22 1k
+Added Member To Class: ClassName=TrafficLight Member=Component R23 1k
+Added Member To Class: ClassName=TrafficLight Member=Component R31 4.7k
+Added Member To Class: ClassName=TrafficLight Member=Component R32 4.7k
+Added Member To Class: ClassName=TrafficLight Member=Component R33 4.7k
+Added Member To Class: ClassName=TrafficLight Member=Component R34 4.7k
+Added Member To Class: ClassName=TrafficLight Member=Component R35 4.7k
+Added Member To Class: ClassName=TrafficLight Member=Component R36 4.7k
+Added Member To Class: ClassName=TrafficLight Member=Component R37 4.7k
+Added Member To Class: ClassName=TrafficLight Member=Component R38 4.7k
+Added Member To Class: ClassName=TrafficLight Member=Component R39 4.7k
+Added Member To Class: ClassName=TrafficLight Member=Component R40 4.7k
+Added Member To Class: ClassName=TrafficLight Member=Component R41 4.7k
+Added Member To Class: ClassName=TrafficLight Member=Component R42 4.7k
+Added Member To Class: ClassName=TrafficLight Member=Component RED1 Led
+Added Member To Class: ClassName=TrafficLight Member=Component RED2 Led
+Added Member To Class: ClassName=TrafficLight Member=Component RED3 Led
+Added Member To Class: ClassName=TrafficLight Member=Component RED4 Led
+Added Member To Class: ClassName=TrafficLight Member=Component SW0 Button
+Added Member To Class: ClassName=TrafficLight Member=Component SW1 Button
+Added Member To Class: ClassName=TrafficLight Member=Component SW2 Button
+Added Member To Class: ClassName=TrafficLight Member=Component SW3 Button
+Added Member To Class: ClassName=TrafficLight Member=Component TRAFFIC LIGHT NUCLEO-F103RB
+Added Member To Class: ClassName=TrafficLight Member=Component YELLOW1 Led
+Added Member To Class: ClassName=TrafficLight Member=Component YELLOW2 Led
+Added Member To Class: ClassName=TrafficLight Member=Component YELLOW3 Led
+Added Member To Class: ClassName=TrafficLight Member=Component YELLOW4 Led

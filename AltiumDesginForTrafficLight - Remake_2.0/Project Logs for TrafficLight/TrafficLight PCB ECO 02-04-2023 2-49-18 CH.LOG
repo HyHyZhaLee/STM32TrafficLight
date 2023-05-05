@@ -1,0 +1,103 @@
+Change Component Comment : Designator=R_B0 Old Comment=1k New Comment=10k
+Change Component Comment : Designator=R_B1 Old Comment=1k New Comment=10k
+Change Component Comment : Designator=R_B2 Old Comment=1k New Comment=10k
+Change Component Comment : Designator=R_B3 Old Comment=1k New Comment=10k
+Change Component Comment : Designator=G1 Old Comment=4.7k New Comment=220
+Change Component Comment : Designator=G2 Old Comment=4.7k New Comment=220
+Change Component Comment : Designator=G3 Old Comment=4.7k New Comment=220
+Change Component Comment : Designator=G4 Old Comment=4.7k New Comment=220
+Change Component Comment : Designator=R1 Old Comment=4.7k New Comment=220
+Change Component Comment : Designator=R2 Old Comment=4.7k New Comment=220
+Change Component Comment : Designator=R3 Old Comment=4.7k New Comment=220
+Change Component Comment : Designator=R4 Old Comment=4.7k New Comment=220
+Change Component Comment : Designator=SEG0 Old Comment=4.7k New Comment=220
+Change Component Comment : Designator=SEG1 Old Comment=4.7k New Comment=220
+Change Component Comment : Designator=SEG2 Old Comment=4.7k New Comment=220
+Change Component Comment : Designator=SEG3 Old Comment=4.7k New Comment=220
+Change Component Comment : Designator=SEG4 Old Comment=4.7k New Comment=220
+Change Component Comment : Designator=SEG5 Old Comment=4.7k New Comment=220
+Change Component Comment : Designator=SEG6 Old Comment=4.7k New Comment=220
+Change Component Comment : Designator=Y1 Old Comment=4.7k New Comment=220
+Change Component Comment : Designator=Y2 Old Comment=4.7k New Comment=220
+Change Component Comment : Designator=Y3 Old Comment=4.7k New Comment=220
+Change Component Comment : Designator=Y4 Old Comment=4.7k New Comment=220
+Change Component Designator: OldDesignator=G1 NewDesignator=RG1
+Change Component Designator: OldDesignator=G2 NewDesignator=RG2
+Change Component Designator: OldDesignator=G3 NewDesignator=RG3
+Change Component Designator: OldDesignator=G4 NewDesignator=RG4
+Change Component Designator: OldDesignator=R1 NewDesignator=RR1
+Change Component Designator: OldDesignator=R2 NewDesignator=RR2
+Change Component Designator: OldDesignator=R3 NewDesignator=RR3
+Change Component Designator: OldDesignator=R4 NewDesignator=RR4
+Change Component Designator: OldDesignator=R_EN0 NewDesignator=REN0
+Change Component Designator: OldDesignator=R_EN1 NewDesignator=REN1
+Change Component Designator: OldDesignator=R_EN2 NewDesignator=REN2
+Change Component Designator: OldDesignator=R_EN3 NewDesignator=REN3
+Change Component Designator: OldDesignator=SEG0 NewDesignator=RSEG0
+Change Component Designator: OldDesignator=SEG1 NewDesignator=RSEG1
+Change Component Designator: OldDesignator=SEG2 NewDesignator=RSEG2
+Change Component Designator: OldDesignator=SEG3 NewDesignator=RSEG3
+Change Component Designator: OldDesignator=SEG4 NewDesignator=RSEG4
+Change Component Designator: OldDesignator=SEG5 NewDesignator=RSEG5
+Change Component Designator: OldDesignator=SEG6 NewDesignator=RSEG6
+Change Component Designator: OldDesignator=Y1 NewDesignator=RY1
+Change Component Designator: OldDesignator=Y2 NewDesignator=RY2
+Change Component Designator: OldDesignator=Y3 NewDesignator=RY3
+Change Component Designator: OldDesignator=Y4 NewDesignator=RY4
+Added Component: Designator=C0(C 0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C1(C 0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C2(C 0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C3(C 0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=BUTTON_0 Pin=C0-1
+Added Pin To Net: NetName=GND Pin=C0-2
+Added Pin To Net: NetName=BUTTON_1 Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=BUTTON_2 Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=BUTTON_3 Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Change Net Name : Old Net Name=NetG1_1 New Net Name=NetGREEN1_1
+Change Net Name : Old Net Name=NetG2_2 New Net Name=NetGREEN2_1
+Change Net Name : Old Net Name=NetG3_1 New Net Name=NetGREEN3_1
+Change Net Name : Old Net Name=NetG4_2 New Net Name=NetGREEN4_1
+Change Net Name : Old Net Name=NetR1_1 New Net Name=NetRED1_1
+Change Net Name : Old Net Name=NetR2_2 New Net Name=NetRED2_1
+Change Net Name : Old Net Name=NetR3_1 New Net Name=NetRED3_1
+Change Net Name : Old Net Name=NetR4_2 New Net Name=NetRED4_1
+Change Net Name : Old Net Name=NetY1_1 New Net Name=NetRY1_1
+Change Net Name : Old Net Name=NetY2_2 New Net Name=NetRY2_2
+Change Net Name : Old Net Name=NetY3_1 New Net Name=NetRY3_1
+Change Net Name : Old Net Name=NetY4_2 New Net Name=NetRY4_2
+Added Member To Class: ClassName=TrafficLight Member=Component C0 104
+Added Member To Class: ClassName=TrafficLight Member=Component C1 104
+Added Member To Class: ClassName=TrafficLight Member=Component C2 104
+Added Member To Class: ClassName=TrafficLight Member=Component C3 104
+Added Room: Name=TrafficLight

@@ -1,0 +1,93 @@
+Change Component Footprint: Designator=EN0 Old Footprint=Led 0805 New Footprint=Led 0603 - red
+Change Component Footprint: Designator=EN1 Old Footprint=Led 0805 New Footprint=Led 0603 - red
+Change Component Footprint: Designator=EN2 Old Footprint=Led 0805 New Footprint=Led 0603 - red
+Change Component Footprint: Designator=EN3 Old Footprint=Led 0805 New Footprint=Led 0603 - red
+Change Component Footprint: Designator=R00 Old Footprint=R 0805 New Footprint=R 0603
+Change Component Footprint: Designator=R0 Old Footprint=R 0805 New Footprint=R 0603
+Change Component Footprint: Designator=R1 Old Footprint=R 0805 New Footprint=R 0603
+Change Component Footprint: Designator=R2 Old Footprint=R 0805 New Footprint=R 0603
+Change Component Footprint: Designator=R3 Old Footprint=R 0805 New Footprint=R 0603
+Change Component Footprint: Designator=R4 Old Footprint=R 0805 New Footprint=R 0603
+Change Component Footprint: Designator=R5 Old Footprint=R 0805 New Footprint=R 0603
+Change Component Footprint: Designator=R6 Old Footprint=R 0805 New Footprint=R 0603
+Change Component Footprint: Designator=R7 Old Footprint=R 0805 New Footprint=R 0603
+Change Component Footprint: Designator=R8 Old Footprint=R 0805 New Footprint=R 0603
+Change Component Footprint: Designator=R9 Old Footprint=R 0805 New Footprint=R 0603
+Change Component Footprint: Designator=R10 Old Footprint=R 0805 New Footprint=R 0603
+Change Component Footprint: Designator=R11 Old Footprint=R 0805 New Footprint=R 0603
+Change Component Footprint: Designator=R12 Old Footprint=R 0805 New Footprint=R 0603
+Change Component Footprint: Designator=R13 Old Footprint=R 0805 New Footprint=R 0603
+Change Component Footprint: Designator=R20 Old Footprint=R 0805 New Footprint=R 0603
+Change Component Footprint: Designator=R21 Old Footprint=R 0805 New Footprint=R 0603
+Change Component Footprint: Designator=R22 Old Footprint=R 0805 New Footprint=R 0603
+Change Component Footprint: Designator=R23 Old Footprint=R 0805 New Footprint=R 0603
+Change Component Footprint: Designator=R31 Old Footprint=R 0805 New Footprint=R 0603
+Change Component Footprint: Designator=R32 Old Footprint=R 0805 New Footprint=R 0603
+Change Component Footprint: Designator=R33 Old Footprint=R 0805 New Footprint=R 0603
+Change Component Footprint: Designator=R34 Old Footprint=R 0805 New Footprint=R 0603
+Change Component Footprint: Designator=R35 Old Footprint=R 0805 New Footprint=R 0603
+Change Component Footprint: Designator=R36 Old Footprint=R 0805 New Footprint=R 0603
+Change Component Footprint: Designator=R37 Old Footprint=R 0805 New Footprint=R 0603
+Change Component Footprint: Designator=R38 Old Footprint=R 0805 New Footprint=R 0603
+Change Component Footprint: Designator=R39 Old Footprint=R 0805 New Footprint=R 0603
+Change Component Footprint: Designator=R40 Old Footprint=R 0805 New Footprint=R 0603
+Change Component Footprint: Designator=R41 Old Footprint=R 0805 New Footprint=R 0603
+Change Component Footprint: Designator=R42 Old Footprint=R 0805 New Footprint=R 0603
+Added Member To Class: ClassName=TrafficLight Member=Component EN0 Led
+Added Member To Class: ClassName=TrafficLight Member=Component EN1 Led
+Added Member To Class: ClassName=TrafficLight Member=Component EN2 Led
+Added Member To Class: ClassName=TrafficLight Member=Component EN3 Led
+Added Member To Class: ClassName=TrafficLight Member=Component GREEN1 Led
+Added Member To Class: ClassName=TrafficLight Member=Component GREEN2 Led
+Added Member To Class: ClassName=TrafficLight Member=Component GREEN3 Led
+Added Member To Class: ClassName=TrafficLight Member=Component GREEN4 Led
+Added Member To Class: ClassName=TrafficLight Member=Component LED 7-SEG QUAD
+Added Member To Class: ClassName=TrafficLight Member=Component Q0 Transistor PNP
+Added Member To Class: ClassName=TrafficLight Member=Component Q1 Transistor PNP
+Added Member To Class: ClassName=TrafficLight Member=Component Q2 Transistor PNP
+Added Member To Class: ClassName=TrafficLight Member=Component Q3 Transistor PNP
+Added Member To Class: ClassName=TrafficLight Member=Component R0 4.7k
+Added Member To Class: ClassName=TrafficLight Member=Component R00 4.7k
+Added Member To Class: ClassName=TrafficLight Member=Component R1 4.7k
+Added Member To Class: ClassName=TrafficLight Member=Component R2 4.7k
+Added Member To Class: ClassName=TrafficLight Member=Component R3 4.7k
+Added Member To Class: ClassName=TrafficLight Member=Component R4 4.7k
+Added Member To Class: ClassName=TrafficLight Member=Component R5 4.7k
+Added Member To Class: ClassName=TrafficLight Member=Component R6 4.7k
+Added Member To Class: ClassName=TrafficLight Member=Component R7 4.7k
+Added Member To Class: ClassName=TrafficLight Member=Component R8 4.7k
+Added Member To Class: ClassName=TrafficLight Member=Component R9 4.7k
+Added Member To Class: ClassName=TrafficLight Member=Component R10 3.3k
+Added Member To Class: ClassName=TrafficLight Member=Component R11 3.3k
+Added Member To Class: ClassName=TrafficLight Member=Component R12 3.3k
+Added Member To Class: ClassName=TrafficLight Member=Component R13 3.3k
+Added Member To Class: ClassName=TrafficLight Member=Component R20 1k
+Added Member To Class: ClassName=TrafficLight Member=Component R21 1k
+Added Member To Class: ClassName=TrafficLight Member=Component R22 1k
+Added Member To Class: ClassName=TrafficLight Member=Component R23 1k
+Added Member To Class: ClassName=TrafficLight Member=Component R31 4.7k
+Added Member To Class: ClassName=TrafficLight Member=Component R32 4.7k
+Added Member To Class: ClassName=TrafficLight Member=Component R33 4.7k
+Added Member To Class: ClassName=TrafficLight Member=Component R34 4.7k
+Added Member To Class: ClassName=TrafficLight Member=Component R35 4.7k
+Added Member To Class: ClassName=TrafficLight Member=Component R36 4.7k
+Added Member To Class: ClassName=TrafficLight Member=Component R37 4.7k
+Added Member To Class: ClassName=TrafficLight Member=Component R38 4.7k
+Added Member To Class: ClassName=TrafficLight Member=Component R39 4.7k
+Added Member To Class: ClassName=TrafficLight Member=Component R40 4.7k
+Added Member To Class: ClassName=TrafficLight Member=Component R41 4.7k
+Added Member To Class: ClassName=TrafficLight Member=Component R42 4.7k
+Added Member To Class: ClassName=TrafficLight Member=Component RED1 Led
+Added Member To Class: ClassName=TrafficLight Member=Component RED2 Led
+Added Member To Class: ClassName=TrafficLight Member=Component RED3 Led
+Added Member To Class: ClassName=TrafficLight Member=Component RED4 Led
+Added Member To Class: ClassName=TrafficLight Member=Component SW0 Button
+Added Member To Class: ClassName=TrafficLight Member=Component SW1 Button
+Added Member To Class: ClassName=TrafficLight Member=Component SW2 Button
+Added Member To Class: ClassName=TrafficLight Member=Component SW3 Button
+Added Member To Class: ClassName=TrafficLight Member=Component TRAFFIC LIGHT NUCLEO-F103RB
+Added Member To Class: ClassName=TrafficLight Member=Component YELLOW1 Led
+Added Member To Class: ClassName=TrafficLight Member=Component YELLOW2 Led
+Added Member To Class: ClassName=TrafficLight Member=Component YELLOW3 Led
+Added Member To Class: ClassName=TrafficLight Member=Component YELLOW4 Led
+Added Room: Name=TrafficLight

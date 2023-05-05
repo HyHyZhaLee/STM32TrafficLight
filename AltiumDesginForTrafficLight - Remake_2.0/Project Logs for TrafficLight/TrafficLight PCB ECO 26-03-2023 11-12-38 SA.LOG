@@ -1,0 +1,10 @@
+Change Component Designator: OldDesignator=D1 NewDesignator=EN0
+Change Component Designator: OldDesignator=D2 NewDesignator=EN1
+Change Component Designator: OldDesignator=D3 NewDesignator=EN2
+Change Component Designator: OldDesignator=D4 NewDesignator=EN3
+Change Component Designator: OldDesignator=M1 NewDesignator=LED 7-SEG QUAD
+Change Net Name : Old Net Name=NetD1_1 New Net Name=NetEN0_1
+Change Net Name : Old Net Name=NetD2_1 New Net Name=NetEN1_1
+Change Net Name : Old Net Name=NetD3_1 New Net Name=NetEN2_1
+Change Net Name : Old Net Name=NetD4_1 New Net Name=NetEN3_1
+Added Room: Name=TrafficLight

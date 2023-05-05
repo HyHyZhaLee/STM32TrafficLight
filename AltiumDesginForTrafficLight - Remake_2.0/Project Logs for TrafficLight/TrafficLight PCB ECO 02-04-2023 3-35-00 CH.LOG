@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=LED_RED1 Pin=TRAFFIC LIGHT-A8_1
+Removed Pin From Net: NetName=LED_YELLOW1 Pin=TRAFFIC LIGHT-A8_2
+Removed Pin From Net: NetName=LED_GREEN1 Pin=TRAFFIC LIGHT-A8_3
+Removed Pin From Net: NetName=LED_RED2 Pin=TRAFFIC LIGHT-A8_4
+Removed Pin From Net: NetName=LED_YELLOW2 Pin=TRAFFIC LIGHT-A8_5
+Removed Pin From Net: NetName=LED_GREEN2 Pin=TRAFFIC LIGHT-A8_6
+Added Pin To Net: NetName=LED_RED2 Pin=TRAFFIC LIGHT-A8_1
+Added Pin To Net: NetName=LED_YELLOW2 Pin=TRAFFIC LIGHT-A8_2
+Added Pin To Net: NetName=LED_GREEN2 Pin=TRAFFIC LIGHT-A8_3
+Added Pin To Net: NetName=LED_RED1 Pin=TRAFFIC LIGHT-A8_4
+Added Pin To Net: NetName=LED_YELLOW1 Pin=TRAFFIC LIGHT-A8_5
+Added Pin To Net: NetName=LED_GREEN1 Pin=TRAFFIC LIGHT-A8_6
+Added Room: Name=TrafficLight

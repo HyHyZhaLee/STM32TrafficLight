@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [TrafficLight.PcbDoc]
+   Generated File[Hash.TXT]
+   Generated File[Hash.LDP]
+   Generated File[Hash.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 9:07:55 SA On 03/04/2023

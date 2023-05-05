@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=+5V Pin=TRAFFIC LIGHT-A6_5
+Added Component: Designator=VCC(SW/3/SPDT/POWER)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5V Pin=VCC-2
+Change Net Name : Old Net Name=+5V New Net Name=VCC
+Added Pin To Net: NetName=NetTRAFFIC LIGHT_A6_4 Pin=TRAFFIC LIGHT-A6_4
+Added Pin To Net: NetName=NetTRAFFIC LIGHT_A6_4 Pin=VCC-1
+Added Net: Name=NetTRAFFIC LIGHT_A6_4
+Added Pin To Net: NetName=NetTRAFFIC LIGHT_A6_5 Pin=TRAFFIC LIGHT-A6_5
+Added Pin To Net: NetName=NetTRAFFIC LIGHT_A6_5 Pin=VCC-3
+Added Net: Name=NetTRAFFIC LIGHT_A6_5
+Added Member To Class: ClassName=TrafficLight Member=Component VCC SW SPDT
+Added Room: Name=TrafficLight

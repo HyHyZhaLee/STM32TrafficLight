@@ -1,0 +1,25 @@
+Removed Member From Class: ClassName=TrafficLight Member=R4
+Removed Member From Class: ClassName=TrafficLight Member=R7
+Change Component Comment : Designator=R1 Old Comment=R New Comment=1k
+Change Component Comment : Designator=R2 Old Comment=R New Comment=1k
+Change Component Comment : Designator=R11 Old Comment=R New Comment=1k
+Change Component Comment : Designator=R12 Old Comment=R New Comment=1k
+Change Component Designator: OldDesignator=R1 NewDesignator=R20
+Change Component Designator: OldDesignator=R2 NewDesignator=R21
+Change Component Designator: OldDesignator=R3 NewDesignator=R0
+Change Component Designator: OldDesignator=R4 NewDesignator=R1
+Change Component Designator: OldDesignator=R5 NewDesignator=R10
+Change Component Designator: OldDesignator=R6 NewDesignator=R11
+Change Component Designator: OldDesignator=R7 NewDesignator=R2
+Change Component Designator: OldDesignator=R8 NewDesignator=R3
+Change Component Designator: OldDesignator=R9 NewDesignator=R12
+Change Component Designator: OldDesignator=R10 NewDesignator=R13
+Change Component Designator: OldDesignator=R11 NewDesignator=R22
+Change Component Designator: OldDesignator=R12 NewDesignator=R23
+Change Component Designator: OldDesignator=SW1 NewDesignator=SW0
+Change Component Designator: OldDesignator=SW2 NewDesignator=SW1
+Change Component Designator: OldDesignator=SW3 NewDesignator=SW2
+Change Component Designator: OldDesignator=SW4 NewDesignator=SW3
+Added Member To Class: ClassName=TrafficLight Member=Component R20 1k
+Added Member To Class: ClassName=TrafficLight Member=Component R21 1k
+Added Room: Name=TrafficLight

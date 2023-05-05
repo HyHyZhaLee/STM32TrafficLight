@@ -1,0 +1,49 @@
+Removed Pin From Net: NetName=SEG4 Pin=U1-M7_13
+Removed Pin From Net: NetName=SEG5 Pin=U1-M7_15
+Removed Pin From Net: NetName=SEG6 Pin=U1-M7_17
+Removed Pin From Net: NetName=EN3 Pin=U1-M7_21
+Removed Pin From Net: NetName=LED_RED1 Pin=U1-M7_28
+Removed Pin From Net: NetName=LED_YELLOW1 Pin=U1-M7_30
+Removed Pin From Net: NetName=LED_YELLOW2 Pin=U1-M7_32
+Removed Pin From Net: NetName=BUTTON_0 Pin=U1-M7_34
+Removed Pin From Net: NetName=LED_GREEN2 Pin=U1-M10_11
+Removed Pin From Net: NetName=SEG3 Pin=U1-M10_12
+Removed Pin From Net: NetName=SEG2 Pin=U1-M10_14
+Removed Pin From Net: NetName=EN2 Pin=U1-M10_17
+Removed Pin From Net: NetName=SEG0 Pin=U1-M10_21
+Removed Pin From Net: NetName=BUTTON_2 Pin=U1-M10_22
+Removed Pin From Net: NetName=BUTTON_1 Pin=U1-M10_24
+Removed Pin From Net: NetName=EN0 Pin=U1-M10_27
+Removed Pin From Net: NetName=EN1 Pin=U1-M10_29
+Removed Pin From Net: NetName=BUTTON_3 Pin=U1-M10_31
+Removed Pin From Net: NetName=SEG1 Pin=U1-M10_33
+Removed Pin From Net: NetName=LED_GREEN1 Pin=U1-M10_35
+Removed Pin From Net: NetName=LED_RED2 Pin=U1-M10_37
+Change Component Footprint: Designator=SW0 Old Footprint=SW/4/12mm New Footprint=SW/4/06MM
+Change Component Footprint: Designator=SW1 Old Footprint=SW/4/12mm New Footprint=SW/4/06MM
+Change Component Footprint: Designator=SW2 Old Footprint=SW/4/12mm New Footprint=SW/4/06MM
+Change Component Footprint: Designator=SW3 Old Footprint=SW/4/12mm New Footprint=SW/4/06MM
+Added Pin To Net: NetName=EN3 Pin=U1-A5_1
+Added Pin To Net: NetName=SEG0 Pin=U1-A5_2
+Added Pin To Net: NetName=SEG1 Pin=U1-A5_3
+Added Pin To Net: NetName=SEG2 Pin=U1-A5_4
+Added Pin To Net: NetName=SEG3 Pin=U1-A5_5
+Added Pin To Net: NetName=SEG4 Pin=U1-A5_6
+Added Pin To Net: NetName=SEG5 Pin=U1-A5_9
+Added Pin To Net: NetName=SEG6 Pin=U1-A5_10
+Added Pin To Net: NetName=GND Pin=U1-A6_6
+Added Pin To Net: NetName=GND Pin=U1-A6_7
+Added Pin To Net: NetName=LED_RED1 Pin=U1-A8_1
+Added Pin To Net: NetName=LED_YELLOW1 Pin=U1-A8_2
+Added Pin To Net: NetName=LED_GREEN1 Pin=U1-A8_3
+Added Pin To Net: NetName=LED_RED2 Pin=U1-A8_4
+Added Pin To Net: NetName=LED_YELLOW2 Pin=U1-A8_5
+Added Pin To Net: NetName=LED_GREEN2 Pin=U1-A8_6
+Added Pin To Net: NetName=BUTTON_0 Pin=U1-A9_1
+Added Pin To Net: NetName=BUTTON_1 Pin=U1-A9_2
+Added Pin To Net: NetName=BUTTON_2 Pin=U1-A9_3
+Added Pin To Net: NetName=BUTTON_3 Pin=U1-A9_4
+Added Pin To Net: NetName=EN0 Pin=U1-A9_6
+Added Pin To Net: NetName=EN1 Pin=U1-A9_7
+Added Pin To Net: NetName=EN2 Pin=U1-A9_8
+Added Room: Name=TrafficLight

@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 9:07:02 SA On 13/04/2023
+
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [TrafficLight.PrjPCB]
+   Generated File[TrafficLight_BOM_VVersion_2023-04-13_09-07.csv]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 9:07:06 SA On 13/04/2023

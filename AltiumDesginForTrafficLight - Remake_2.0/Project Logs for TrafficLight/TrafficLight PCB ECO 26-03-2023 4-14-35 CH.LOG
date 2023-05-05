@@ -1,0 +1,13 @@
+Added Member To Class: ClassName=TrafficLight Member=Component GREEN1 Led
+Added Member To Class: ClassName=TrafficLight Member=Component GREEN2 Led
+Added Member To Class: ClassName=TrafficLight Member=Component GREEN3 Led
+Added Member To Class: ClassName=TrafficLight Member=Component GREEN4 Led
+Added Member To Class: ClassName=TrafficLight Member=Component RED1 Led
+Added Member To Class: ClassName=TrafficLight Member=Component RED2 Led
+Added Member To Class: ClassName=TrafficLight Member=Component RED3 Led
+Added Member To Class: ClassName=TrafficLight Member=Component RED4 Led
+Added Member To Class: ClassName=TrafficLight Member=Component YELLOW1 Led
+Added Member To Class: ClassName=TrafficLight Member=Component YELLOW2 Led
+Added Member To Class: ClassName=TrafficLight Member=Component YELLOW3 Led
+Added Member To Class: ClassName=TrafficLight Member=Component YELLOW4 Led
+Added Room: Name=TrafficLight

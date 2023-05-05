@@ -1,0 +1,31 @@
+Change Component Comment : Designator=REN0 Old Comment=4.7k New Comment=1k
+Change Component Comment : Designator=REN1 Old Comment=4.7k New Comment=1k
+Change Component Comment : Designator=REN2 Old Comment=4.7k New Comment=1k
+Change Component Comment : Designator=REN3 Old Comment=4.7k New Comment=1k
+Change Component Comment : Designator=RSEG0 Old Comment=220 New Comment=470
+Change Component Comment : Designator=RSEG1 Old Comment=220 New Comment=470
+Change Component Comment : Designator=RSEG2 Old Comment=220 New Comment=470
+Change Component Comment : Designator=RSEG3 Old Comment=220 New Comment=470
+Change Component Comment : Designator=RSEG4 Old Comment=220 New Comment=470
+Change Component Comment : Designator=RSEG5 Old Comment=220 New Comment=470
+Change Component Comment : Designator=RSEG6 Old Comment=220 New Comment=470
+Change Component Comment : Designator=RG1 Old Comment=270 New Comment=220
+Change Component Comment : Designator=RG2 Old Comment=270 New Comment=220
+Change Component Comment : Designator=RG3 Old Comment=270 New Comment=220
+Change Component Comment : Designator=RY1 Old Comment=300 New Comment=100
+Change Component Comment : Designator=RY2 Old Comment=300 New Comment=100
+Change Component Comment : Designator=RY3 Old Comment=300 New Comment=100
+Change Component Comment : Designator=RY4 Old Comment=300 New Comment=100
+Change Component Comment : Designator=RR1 Old Comment=330 New Comment=1k
+Change Component Comment : Designator=RR2 Old Comment=330 New Comment=1k
+Change Component Comment : Designator=RR3 Old Comment=330 New Comment=1k
+Change Component Comment : Designator=RR4 Old Comment=330 New Comment=1k
+Added Component: Designator=U?(SOIC-20)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Member To Class: ClassName=TrafficLight Member=Component U? 74HC245D

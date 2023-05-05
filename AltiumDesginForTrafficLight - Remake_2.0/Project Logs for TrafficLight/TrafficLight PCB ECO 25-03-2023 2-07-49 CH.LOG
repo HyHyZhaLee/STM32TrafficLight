@@ -1,0 +1,13 @@
+Change Component Designator: OldDesignator=GREEN2 NewDesignator=GREEN4
+Change Component Designator: OldDesignator=GREEN3 NewDesignator=GREEN2
+Change Component Designator: OldDesignator=GREEN4 NewDesignator=GREEN3
+Change Component Designator: OldDesignator=RED2 NewDesignator=RED4
+Change Component Designator: OldDesignator=RED3 NewDesignator=RED2
+Change Component Designator: OldDesignator=RED4 NewDesignator=RED3
+Change Component Designator: OldDesignator=YELLOW2 NewDesignator=YELLOW4
+Change Component Designator: OldDesignator=YELLOW3 NewDesignator=YELLOW2
+Change Component Designator: OldDesignator=YELLOW4 NewDesignator=YELLOW3
+Change Net Name : Old Net Name=NetGREEN2_1 New Net Name=NetGREEN4_1
+Change Net Name : Old Net Name=NetGREEN3_1 New Net Name=NetGREEN2_1
+Change Net Name : Old Net Name=NetGREEN4_1 New Net Name=NetGREEN3_1
+Added Room: Name=TrafficLight
