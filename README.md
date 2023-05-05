@@ -26,11 +26,11 @@ This is an Expansion Shield for STM32 Nucleo designed to control a traffic light
 
 ## Getting Started
 
-## Prerequisites
+### Prerequisites
 - STM32 Nucleo board
 - STM32CubeIDE or other compatible software
 
-## Installation
+### Installation
 1. Clone the repository to your local machine.
 2. Open the project in STM32CubeIDE or other compatible software.
 3. Upload the code to your STM32 Nucleo board.
