@@ -1,6 +1,9 @@
 # Expansion Shield for STM32 Nucleo (Traffic Light System Shield)
 
 This is an Expansion Shield for STM32 Nucleo designed to control a traffic light system using STM32F103RBT6. The shield includes 4 buttons for mode selection and parameter adjustment, a 7-segment 4-digit display for displaying the current settings, and an LED indicator for the status of the system.
+![Screenshot 2024-03-01 204429](https://github.com/HyHyZhaLee/STM32TrafficLight/assets/113485058/dbfc36ee-c72c-4074-b4a1-db7b8335461b)
+![Screenshot 2024-03-01 204401](https://github.com/HyHyZhaLee/STM32TrafficLight/assets/113485058/5cdca860-17af-4b7b-9869-673ccd070637)
+
 
 ## Features
 
